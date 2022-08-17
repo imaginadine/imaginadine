@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @imaginadine
+- 👀 I’m interested in dancing, writing, drawing, music and of course developing !
+- 💞️ I’m looking to collaborate on fun and creative projects, such as games or innovative software.
