@@ -1,3 +1,8 @@
+# Welcome to my profile!
+
 - 👋 Hi, I’m @imaginadine
-- 👀 I’m interested in dancing, writing, drawing, music and of course developing !
-- 💞️ I’m looking to collaborate on fun and creative projects, such as games or innovative software.
+- 👀 I’m interested in developping fun projects such as games.
+- :house: I live in South of France.
+- :musical_note: I love dancing, playing music, writing stories, drawing, solving enigmas, socializing, astronomy...
+
+> There is something interesting everywhere.
